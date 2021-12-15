@@ -1,4 +1,4 @@
-![alt text](https://github.com/PattiCakes59/Practice/blob/main/Images/practice.jpg)
+![alt text](https://github.com/PattiCakes59/Practice/blob/main/Images/python-logo.png)
 # Practice
 Repo holds practice notebooks. These notebooks are for new and old skills I have learned.
 ## Notebooks
