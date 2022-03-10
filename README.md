@@ -8,4 +8,5 @@ Repo holds practice notebooks. These notebooks are for new and old skills I have
 
 There are multiple notebooks that practice different skills.
 - Some of the notebooks cross-over in terms of skills but works towards different things.
+
 The point of this repository isn't for anything other than to record what I have done and where I have come from.
