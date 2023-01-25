@@ -5,7 +5,6 @@ Repo holds practice notebooks. These notebooks are for new and old skills I have
 1. Notes-Practice
  >- There are several different notebooks and files:
  1. Teaching myself C# based off of the Microsoft tutorial site and other relevant info.
-     a. h
  2. Learning about python with finance from a class in Udemy.
  3. Brushing up on my python skills overall from a bootcamp on Udemy.
  4. Taking notes in a word document about SQL.
